@@ -6,7 +6,7 @@ public class Action {
     String getText(){
         return description;
     }
-    int getDestLocationId(){
+    int getNextLocationId(){
         return idNextLocation;
     }
 
